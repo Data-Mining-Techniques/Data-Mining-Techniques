@@ -1,1 +1,1 @@
-# Data-Mining-Techniques
+Data Mining Techniques
